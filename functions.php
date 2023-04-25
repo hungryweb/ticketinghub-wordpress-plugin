@@ -4,8 +4,8 @@
 * Plugin URI: https://www.ticketinghub.com/
 * Description: Widget Integration for TicketingHub
 * Version: 1.0
-* Author: TicketingHub
-* Author URI: https://www.ticketinghub.com/
+* Author: Hungryweb
+* Author URI: https://www.hungryweb.ie/
 **/
 
 function ticketinghub_plugin_enqueue_script() {
