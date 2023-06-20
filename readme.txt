@@ -1,9 +1,8 @@
 === TicketingHub Widget ===
 Contributors: theticketinghub
 Tags: ticketing software, ticketing system, ticketing, ticketinghub, ticketinghub widget, ticketinghub booking widget, ticketinghub booking, ticketinghub booking system, ticketinghub booking software, ticketinghub booking plugin, ticketinghub booking calendar, ticketinghub booking calendar widget, ticketinghub booking calendar plugin, ticketinghub booking calendar software, ticketinghub
-Requires at least: 3.9
-Tested up to: 4.0
-Stable tag: 1.0
+Requires at least: 5.8
+Tested up to: 6.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
