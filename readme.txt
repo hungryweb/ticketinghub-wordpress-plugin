@@ -3,7 +3,7 @@ Contributors: theticketinghub
 Tags: ticketing software, ticketing system, ticketing, ticketinghub, ticketinghub widget, ticketinghub booking widget, ticketinghub booking, ticketinghub booking system, ticketinghub booking software, ticketinghub booking plugin, ticketinghub booking calendar, ticketinghub booking calendar widget, ticketinghub booking calendar plugin, ticketinghub booking calendar software, ticketinghub
 Requires at least: 5.8
 Tested up to: 6.3.1
-Stable tag: 1.0
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -50,6 +50,6 @@ Alone you will go fast, together we will go far"
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 * 2023-04-25
 * Initial Public Release
