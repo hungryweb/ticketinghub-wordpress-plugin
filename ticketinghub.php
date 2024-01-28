@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: TicketingHub
+ * Plugin Name: TicketingHub Widget: Gutenberg Block
  * Plugin URI: https://ticketinghub.com/integrations/best-wordpress-booking-plugin
  * Description: Connect Your WordPress Website with TicketingHub for Simple Checkout
  * Version: 1.0.1

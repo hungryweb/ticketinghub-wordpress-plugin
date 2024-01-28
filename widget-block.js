@@ -70,7 +70,7 @@
                 null,
                 wp.element.createElement(
                     'div', 
-                    { dangerouslySetInnerHTML: { __html: scriptCode } }
+                    { dangerouslySetInnerHTML: { __html: '<script src="https://assets.ticketinghub.com/checkout.js" data-widget="'+scriptCode+'"></script>' } }
                 )
             );
         }
