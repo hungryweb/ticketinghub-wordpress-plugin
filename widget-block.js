@@ -65,7 +65,6 @@
         },
         save: function(props) {
             var scriptCode = props.attributes.scriptCode;
-
             return wp.element.createElement(
                 'div',
                 null,
