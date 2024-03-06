@@ -49,6 +49,9 @@ Committed To Customers: Every experience in TicketingHub centers around delighti
 Alone you will go fast, together we will go far"
 
 == Changelog ==
+= 1.0.1 =
+* 2023-11-29
+* Copy updates
 
 = 1.0.0 =
 * 2023-04-25
