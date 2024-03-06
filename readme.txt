@@ -50,8 +50,8 @@ Alone you will go fast, together we will go far"
 
 == Changelog ==
 = 1.0.1 =
-* 2023-11-29
-* Copy updates
+* 2024-01-28
+* Script embed update
 
 = 1.0.0 =
 * 2023-04-25
